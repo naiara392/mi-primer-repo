@@ -1,2 +1,2 @@
 # mi-primer-repo
-Ejercicio 1 del Sprint 2
+Ejercicio 1º Básico Git/Github del Sprint 2
