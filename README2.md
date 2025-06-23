@@ -8,3 +8,6 @@ Administración de sistemas informaticos en red
 Soy una estudiante del ciclo superior de ASIR a punto de terminar sus estudios. A Fecha de este proyecto me encuentro 
 realizando mis practicas profesionales donde estoy aprendiendo mucho sobre distintas técnologías. 
 Para estos ejercicios estoy aprendiendo a utilizar Git y Github.
+
+#### Intereses:
+Actualmente estoy descubriendo muchas muchas tecnológias y no me decanto por ninguna en concreto de momento.
